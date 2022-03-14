@@ -1,0 +1,77 @@
+html{
+  scroll-behavior: smooth;
+  background-color: #426ff5
+}
+
+button{
+  padding: 15px 40px;
+  border-radius: 5px;
+  font-family: Nanum Gothic;
+  font-size: 18px;
+  background-color: #d13333;
+  color: #232533;
+}
+
+nav{
+  text-align: center;
+  background: no-repeat fixed;
+  background-image: url(https://images.pexels.com/photos/2722627/pexels-photo-2722627.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+article{
+  text-align: center;
+  padding: 30px;
+  padding-top: 150px;
+  height: 100vh;
+  background: no-repeat fixed;
+}
+
+h1{
+  font-family: Michroma;
+  font-size: 35px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+p{
+  font-family: Nanum Gothic;
+  margin: 20 60 60 0;
+}
+
+.article2{
+  background-image: url(https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+ color: #d13333;
+}
+
+.article3{
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+   color: #e4e7f0;
+}
+
+.title {
+  font-size: 33px;
+  font-family: Michroma;
+  color: #E7E3E3;
+  
+}
+
+.article1 {
+  background: no-repeat fixed;
+  background-image:   url(https://images.pexels.com/photos/1350197/pexels-photo-1350197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  height: 100vh;
+  color:#e4e7f0;
+}
+
+a{
+  font-family: Nanum Gothic;
+  margin: 20 60 60 0;
+  color:#e4e7f0;
+}
